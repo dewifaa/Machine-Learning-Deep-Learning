@@ -2,11 +2,11 @@
 Project ini adalah project mengenai machine learning dan deep learning. Project ini dilakukan untuk melakukan segmentasi data dengan metode Clustering dengan membandingkan tiga evaluasi model untuk mengetahui model mana yang paling baik.
 
 # Packages
-Pandas
+Pandas </br>
 Numpy
 
 # Preparation
-Import Library
-Input Dataset
-Preprocessing
-Train-Test Split
+Import Library </br>
+Input Dataset </br>
+Preprocessing </br>
+Train-Test Split </br>
